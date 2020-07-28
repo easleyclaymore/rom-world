@@ -1,4 +1,4 @@
-# hello-wored
+# rom-world
 Batocera爱好者说明
 目录：
 5.25中文正式版说明
